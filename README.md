@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Realravenstone
 - 👀 I’m interested in regtech, fintech and crypto.
-- 🌱 I’m currently learning how Blockchain Tech works and I try to study Phyton.
-- 💞️ I’m looking to collaborate on various projects.
+- 🌱 I’m currently learning how Blockchain Tech works and I study Phyton.
+- 💞️ I’m looking to collaborate on exciting Crypto-projects.
 - 📫 How to reach me: https://www.linkedin.com/in/thetrilingualeconomist-lukas/
 
 <!---
